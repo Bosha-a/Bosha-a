@@ -1,5 +1,8 @@
 <h1 align="center">Hi There👋, I'm Abdallah Beshary</h1>
-<h3 align="center">A Software Engineer from Egypt</h3>
+<div align="center">
+ <img src="https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer+From+Egypt;A+Software+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+</div>
 
 <h3 align="center">To Contact</h3>
 <p align="center">
@@ -17,9 +20,11 @@
   
 - 🌱 I’m currently learning **Deffirent Technologies**
 
-- ⚡ Hoppies **Ping Pong , Football , Cooking**
+- 💬 Ask me about **java , ML , Python**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/abdallahbeshary/)**
+
+- ⚡ Hoppies **Ping Pong , Football , Cooking**
 
 
 <h3 align="left"> &#128204 Languages and Tools:</h3>
