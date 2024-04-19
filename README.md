@@ -10,7 +10,6 @@
 <a href="https://instagram.com/abdallah__beshary" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdallahbeshary&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahbeshary" /> </p>
 
 <h3 align="left">&#128587 Brief <h3>
 
