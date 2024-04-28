@@ -24,8 +24,6 @@
 - ⚡ Hoppies **Ping Pong , Football , Cooking**
 
 
-<h3 align="left"> &#128204 Languages and Tools:</h3>
-
 <h2 align="center"> 🔭 Programming Tools</h2>
 <div align="center">
 
