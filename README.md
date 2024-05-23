@@ -105,7 +105,7 @@
  
 <h2>🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=Bosha-a&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bosha-a&theme=darkhub&no-frame=false&no-bg=false&margin-w=4).......
 </div>
 
 
