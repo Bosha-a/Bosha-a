@@ -20,7 +20,7 @@
 
 
   
-- 🌱 I’m currently learning **Deffirent Technologies**...
+- 🌱 I’m currently learning **Deffirent Technologies**
 
 - 💬 Ask me about **java , ML , Python**
 
