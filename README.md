@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer+From+Egypt;A+Software+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </div>
-....
+
 <h3 align="center"> How To Reach Me </h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/abdallahbeshary/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
