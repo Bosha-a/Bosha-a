@@ -22,7 +22,7 @@
   
 - 🌱 I’m currently learning **Deffirent Technologies**
 
-- 💬 Ask me about **java , ML , Python**
+- 💬 Ask me about **Machine Learning , Data Science , Python**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/abdallahbeshary/)**
 
