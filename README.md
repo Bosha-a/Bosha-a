@@ -28,9 +28,8 @@
 
 - ⚡ Hoppies **Ping Pong , Football , Cooking**
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bosha-a&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div id="header" align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 </div>
 
 <div align="center">
@@ -95,8 +94,7 @@
 
 
 <div align="center">
-<h3 align="center">🔥   My Stats :</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bosha-a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<h3 align="center">🔥   My Stats </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bosha-a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
