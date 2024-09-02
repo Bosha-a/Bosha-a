@@ -106,5 +106,3 @@
 
 
 </p>
-<img src="https://raw.githubusercontent.com/Bosha-a/Bosha-a/output/snake.svg" alt="Snake animation" />
-
