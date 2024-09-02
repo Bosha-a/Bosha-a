@@ -3,9 +3,6 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer+From+Egypt;A+Software+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Bosha-a/count.svg?"  />
-</div>
 
 <h3 align="center"> How To Reach Me </h3>
 <div align="center">
@@ -17,7 +14,9 @@
   <img height="200" src="https://media.giphy.com/media/qIltqcndvrtp7kXQjb/giphy.gif?cid=790b7611uczbf9guv0lqhcbl5dtr0svfc3nus77h8kka1pjs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Bosha-a/count.svg?"  />
+</div>
 
 <h3 align="left">&#128587 Brief <h3>
 
