@@ -14,9 +14,6 @@
   <img height="200" src="https://media.giphy.com/media/qIltqcndvrtp7kXQjb/giphy.gif?cid=790b7611uczbf9guv0lqhcbl5dtr0svfc3nus77h8kka1pjs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Bosha-a/count.svg?"  />
-</div>
 
 <h3 align="left">&#128587 Brief <h3>
 
