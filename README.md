@@ -19,7 +19,7 @@
 
 
   
-- 🌱 I’m currently learning **Deffirent Technologies**
+- 🌱 I’m currently learning **Different Technologies**
 
 - 💬 Ask me about **Machine Learning , Data Science , Python**
 
