@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋, I'm Abdallah Beshary</h1>
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer+From+Egypt;AN+Ai+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=An+AI+Engineer+From+Egypt;An+Ai+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </div>
 
