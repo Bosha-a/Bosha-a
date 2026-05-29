@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋, I'm Abdallah Beshary</h1>
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer+From+Egypt;A+Software+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer+From+Egypt;AN+Ai+Engineer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </div>
 
@@ -24,8 +24,6 @@
 - 💬 Ask me about **Machine Learning , Data Science , Python**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/abdallahbeshary/)**
-
-- ⚡ Hoppies **Ping Pong , Football , Cooking**
 
 <div id="header" align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
