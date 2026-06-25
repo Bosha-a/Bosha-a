@@ -92,3 +92,6 @@
 
 
 </p>
+
+
+![](profile-green-dual.svg)
