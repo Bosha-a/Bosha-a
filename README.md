@@ -94,4 +94,4 @@
 </p>
 
 
-![](profile-green-dual.svg)
+![](./profile-3d-contrib/profile-green-dual.svg)
