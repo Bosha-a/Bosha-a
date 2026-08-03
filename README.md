@@ -4,10 +4,26 @@
 </p>
 </div>
 
-<h3 align="center"> How To Reach Me </h3>
-<div align="center">
-<a href="https://www.linkedin.com/in/abdallahbeshary/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
+```python
+class Bosha:
+    def __init__(self):
+        self.name = "Abdallah Beshary"
+        self.specialization = "AI Engineering"
+        self.education = "B.Sc. Computer Science (Suez Canal University)"
+
+    def my_skills(self) -> dict[str, list[str]]:
+        return {
+            "Languages": ["Python", "JavaScript", "Java", "C++"],
+            "AI_ML": ["TensorFlow", "PyTorch", "Scikit-learn", "Computer Vision"],
+            "Agentic_AI": ["LangChain", "CrewAI", "PydanticAI", "LlamaIndex"],
+            "Deployment": ["FastAPI", "Docker", "Kubernetes"],
+            "Databases": [ "FAISS", "ChromaDB", "Pinecone", "Qdrant", "MongoDB", "Postgres", "Supabase"],
+        }
+
+    def __str__(self) -> str:
+        return f"{self.name} | {self.specialization} ({self.education})"
+```
 
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/abdallahbeshary/)**
@@ -16,18 +32,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 </div>
 
-<h2 align="center"> Problem Solving </h2>
-<div align="center">
-
-
-<a href="https://codeforces.com/profile/Boshaa1900" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-<a href="https://leetcode.com/u/Boshaa1900/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-<a href="https://www.kaggle.com/abdallahbeshary" target="blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
-
-</div>
-
-</div>
-
+<!-- <h2 align="center"> Tech Stack </h2> -->
 
 
 </p>
