@@ -17,8 +17,8 @@ class Bosha:
             "Languages": ["Python", "JavaScript", "Java", "C++"],
             "AI_ML": ["TensorFlow", "PyTorch", "Scikit-learn", "Computer Vision"],
             "Agentic_AI": ["LangChain", "CrewAI", "PydanticAI", "LlamaIndex"],
-            "Deployment": ["FastAPI", "Docker", "Kubernetes"],
-            "Databases": [ "FAISS", "ChromaDB", "Pinecone", "Qdrant", "MongoDB", "Postgres", "Supabase"],
+            "Deployment": ["FastAPI", "Docker", "Azure"],
+            "Databases": ["FAISS", "ChromaDB", "Pinecone", "Qdrant", "MongoDB", "Postgres", "Supabase"],
         }
 
     def __str__(self) -> str:
